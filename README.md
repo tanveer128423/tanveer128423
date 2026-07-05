@@ -8,13 +8,13 @@ React • Next.js • TypeScript • Node.js • Firebase • PostgreSQL • Gem
 ## Featured Projects
 
 🚀 **CareerPilot**  
-[GitHub](https://github.com/tanveer128423/CareerPilot) • [Live Demo](https://your-demo-link.vercel.app)
+[GitHub](https://github.com/tanveer128423/CareerPilot) • [Live Demo](https://career-pilot-rust-tau.vercel.app/)
 
 📰 **Spot News**  
 Production multilingual news platform
 
 🤖 **AI Learning Content Generator**  
-[GitHub](https://github.com/tanveer128423/AI_content_generation_system)
+[GitHub](https://github.com/tanveer128423/AI_content_generation_system) • [Live Demo](https://ai-content-generation-system.vercel.app/)
 
 ## Experience
 
