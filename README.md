@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mohammad Khalid Tanveer 👋
 
-<!--
-**tanveer128423/tanveer128423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Full Stack Developer | AI Product Builder
 
-Here are some ideas to get you started:
+## Tech Stack
+React • Next.js • TypeScript • Node.js • Firebase • PostgreSQL • Gemini API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+🚀 CareerPilot
+AI-powered career copilot
+
+📰 Spot News
+Production multilingual news platform
+
+🤖 AI Learning Content Generator
+AI content and quiz generation system
+
+## Experience
+Software Engineer Intern @ KalviumLabs
+Worked on production assessment platform serving 15,000+ users.
+
+## Contact
+LinkedIn
+Portfolio
+Email
